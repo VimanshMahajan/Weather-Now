@@ -15,7 +15,7 @@ let place = "";
 
 // Middleware to capture the location from POST request
 function getCity(req, res, next) {
-    place = req.body.weather; // assuming input name is 'weather'
+    place = req.body.weather; //  input name is 'weather'
     next();
 }
 
