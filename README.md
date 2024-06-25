@@ -1,6 +1,4 @@
-Sure, here is the detailed README file:
 
----
 
 # Weather Now
 
