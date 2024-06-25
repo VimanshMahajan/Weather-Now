@@ -29,6 +29,14 @@ A simple web application to get live weather updates for any location using Weat
 - Displays current temperature, humidity, and weather condition.
 - Responsive UI using Bootstrap.
 - Error handling for invalid locations and API errors.
+- uses both the backend and frontend components.
+
+---
+
+## About the Project
+
+This project encompasses both the backend and frontend components. The backend, built using Node.js and Express, handles server logic and API requests. The frontend, designed with EJS templates and styled using Bootstrap, provides a responsive and user-friendly interface.
+
 
 ## Installation
 
