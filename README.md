@@ -1,8 +1,6 @@
-
-
 # Weather Now
 
-A simple web application to get live weather updates for any location using WeatherAPI. This application is built using Node.js, Express, and EJS templates.
+A simple web application to get live weather updates for any location using WeatherAPI. Built using Node.js, Express, and EJS templates, this project includes both backend and frontend components. The backend handles server logic and API requests, while the frontend, designed with EJS templates and styled using Bootstrap, provides a responsive and user-friendly interface.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
@@ -29,20 +27,13 @@ A simple web application to get live weather updates for any location using Weat
 - Error handling for invalid locations and API errors.
 - uses both the backend and frontend components.
 
----
-
-## About the Project
-
-This project encompasses both the backend and frontend components. The backend, built using Node.js and Express, handles server logic and API requests. The frontend, designed with EJS templates and styled using Bootstrap, provides a responsive and user-friendly interface.
-
-
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/weather-detection.git
-    cd weather-detection
+    git clone https://github.com/VimanshMahajan/Weather-Now.git
+    cd Weather-Now
     ```
 
 2. Install dependencies:
@@ -54,7 +45,7 @@ This project encompasses both the backend and frontend components. The backend, 
 3. Create a `.env` file in the root directory and add your WeatherAPI key:
 
     ```env
-    API_KEY=your_api_key_here
+    API_KEY = `your_api_key_here`
     ```
 
 4. Start the server:
@@ -69,7 +60,7 @@ This project encompasses both the backend and frontend components. The backend, 
 
 1. Open the application in your browser.
 2. Enter a location in the input field.
-3. Click the "Submit" button.
+3. Click the `Submit` button.
 4. View the current temperature, humidity, and weather condition for the entered location.
 
 ## File Structure
@@ -82,5 +73,3 @@ This project encompasses both the backend and frontend components. The backend, 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
