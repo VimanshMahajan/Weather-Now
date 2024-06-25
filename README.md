@@ -2,7 +2,7 @@ Sure, here is the detailed README file:
 
 ---
 
-# Weather Detection
+# Weather Now
 
 A simple web application to get live weather updates for any location using WeatherAPI. This application is built using Node.js, Express, and EJS templates.
 
